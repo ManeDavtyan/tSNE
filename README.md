@@ -5,7 +5,7 @@ This class is an implementation of the tSNE. The class includes two main  callab
 Initiallizing parameters perplexity and dimensions.
 
 ## `grid_search`
-Using perplexity parameter finding the best sigmas for each iteration for p_ij
+Using perplexity parameter finding the best sigmas for each iteration for p_ij. The main idea of the given grid_function was taken from here https://towardsdatascience.com/t-sne-from-scratch-ft-numpy-172ee2a61df7 
 
 ## `fit`
 
